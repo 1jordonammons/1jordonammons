@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1jordonammons
-- 👀 I’m interested in ... Software enginnering and project managment 
+- 👀 I’m interested in ... Software enginnering , Product Managment and Data Science 
 - 🌱 I’m currently learning ... HTML and CSS
 - 💞️ I’m looking to collaborate on ... learning and developing 
 - 📫 How to reach me ... linked in and instagram would be nice 
